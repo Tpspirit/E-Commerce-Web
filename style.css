@@ -145,6 +145,6 @@ h3 {
   }
 
   .header .content .btn {
-    margin-left: 42%;
+    margin: 0 auto;
   }
 }
